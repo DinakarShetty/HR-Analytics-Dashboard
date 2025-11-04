@@ -65,3 +65,9 @@ Attrition Rate % =
 DIVIDE([Attrition Count], [Total Employees]) * 100
 
 Average Age = AVERAGE(EmployeeData[A]()
+
+🧑‍💻 Author
+
+Dinakar Shetty
+Business & Data Analyst | Power BI | SQL | Excel | Python
+📧 Email: dinakar.shetty2@gmail.com
