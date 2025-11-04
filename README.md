@@ -49,7 +49,7 @@ Relationships created on:
 
 ## 🧮 DAX Measures (Key Metrics)
 
-```DAX
+DAX
 Total Employees = COUNT(EmployeeData[EmployeeID])
 
 Attrition Count = 
@@ -64,9 +64,9 @@ Active Employees =
 Attrition Rate % =
 DIVIDE([Attrition Count], [Total Employees]) * 100
 
-Average Age = AVERAGE(EmployeeData[A]() ```
+Average Age = AVERAGE(EmployeeData[A]() 
 
-🧑‍💻 Author
+**🧑‍💻 Author**
 
 Dinakar Shetty
 Business & Data Analyst | Power BI | SQL | Excel | Python
