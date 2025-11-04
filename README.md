@@ -8,10 +8,10 @@ This project helps HR managers and leadership teams identify retention challenge
 ## 📊 Dashboard Preview
 
 ### Page 1 – HR Overview
-![HR Analytics Dashboard Page 1](../Documentation/HR_Analytics_Project.jpg)
+![HR Analytics Dashboard Page 1](https://github.com/DinakarShetty/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Project.jpg)
 
 ### Page 2 – Attrition Insights
-![HR Analytics Dashboard Page 2](../Documentation/HR_Analytics_Project2.jpg)
+![HR Analytics Dashboard Page 2](https://github.com/DinakarShetty/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Project2.jpg)
 
 ---
 
@@ -64,7 +64,7 @@ Active Employees =
 Attrition Rate % =
 DIVIDE([Attrition Count], [Total Employees]) * 100
 
-Average Age = AVERAGE(EmployeeData[A]()
+Average Age = AVERAGE(EmployeeData[A]() ```
 
 🧑‍💻 Author
 
