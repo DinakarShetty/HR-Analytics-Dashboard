@@ -27,7 +27,7 @@ This project helps HR managers and leadership teams identify retention challenge
 
 | Category | Details |
 |-----------|----------|
-| **Data Source** | CSV / Excel (HR Employee Data) |
+| **Data Source** | Excel (HR Employee Data) |
 | **Tools** | Microsoft Power BI Desktop |
 | **Techniques** | Power Query for ETL, DAX Calculations, Data Modeling |
 | **Visualization Types** | KPI Cards, Bar Chart, Donut Chart, TreeMap, Table, Line Chart |
